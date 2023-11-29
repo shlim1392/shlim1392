@@ -15,9 +15,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshlim1392&count_bg=%232F0B82&title_bg=%23160827&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-
-
 </div>
 
 <!-- - 👯 I’m looking to collaborate on 프로젝트
