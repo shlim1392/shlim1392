@@ -1,5 +1,4 @@
-### Hi there 👋
-<!-- Here are some ideas to get you started: -->
+![header](https://capsule-render.vercel.app/api?type=Slice&color=351c75&height=150&section=header&text=SHlim&fontColor=b49eec&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 - 🌱 I’m currently learning : python, Data enginieering
 
