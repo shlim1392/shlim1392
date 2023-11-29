@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning : python, Data enginieering
+🌱 I’m currently learning : python, Data enginieering
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlim1392&show_icons=true&theme=radical)
 
