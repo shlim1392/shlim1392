@@ -10,7 +10,9 @@
 
 🌱 I’m currently learning : python, Data enginieering
 
+<script src="https://gist.github.com/shlim1392/4c28ce891e2a8e067505883b005b78b2.js"></script>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlim1392&show_icons=true&theme=radical)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshlim1392&count_bg=%232F0B82&title_bg=%23160827&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
