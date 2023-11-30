@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning : python, Data enginieering
 
-<script src="https://gist.github.com/shlim1392/4c28ce891e2a8e067505883b005b78b2.js"></script>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlim1392&show_icons=true&theme=radical)
 
 
