@@ -7,7 +7,7 @@
 ---
 
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=OpenJDK&logoColor=white"/>
 
