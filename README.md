@@ -5,21 +5,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=Spring&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-          style=flat		//배지 스타일
-          &logo=JS		//로고옆에 텍스트
-          &logoColor=white"/>	
-<img src="https://img.shields.io/badge/fastapi-009688?
-          style=flat		//배지 스타일
-          &logo=JS		//로고옆에 텍스트
-          &logoColor=white"/>	
-<img src="https://img.shields.io/badge/mysql-4479A1?
-          style=flat		//배지 스타일
-          &logo=JS		//로고옆에 텍스트
-          &logoColor=white"/>	
 
 
 
