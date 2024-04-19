@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=2F0B82&height=150&section=header&text=SHlim&fontColor=b49eec&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<br>
 🌱 I’m currently learning : Data Enginieering, Data Science
 
 <br>
