@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=2F0B82&height=150&section=header&text=SHlim&fontColor=b49eec&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+🌱 I’m currently learning : Data Enginieering, Data Science
 
 📚 **STACKS**
 ---
@@ -40,7 +41,7 @@
 
 <br/>
 
-🌱 I’m currently learning : python, Data enginieering
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlim1392&show_icons=true&theme=radical)
