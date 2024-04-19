@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=2F0B82&height=150&section=header&text=SHlim&fontColor=b49eec&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-### STACKS
+📚 **STACKS**
 ---
 
-📚 **STACKS**
+
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
