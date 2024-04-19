@@ -8,8 +8,8 @@
 
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=OpenJDK&logoColor=white"/>
 
 
 
